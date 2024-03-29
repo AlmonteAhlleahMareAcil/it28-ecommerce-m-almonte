@@ -35,14 +35,14 @@
 }
 #navbar li a:hover,
 #navbar li a.active{
-    color: #7b2c84;
+    color: #0e010a;
 }
 #navbar li a.active::after,
 #navbar li a:hover::after{
     content: "";
     width: 30%;
     height: 4px;
-    background: #814c87;
+    background: #793b6e;
     position: absolute;
     bottom: -4px;
     left: 20px;
@@ -68,7 +68,7 @@
     width: 25%;
     min-width: 10px;
     padding: 25px 25px;
-    border: 1px solid #a03f83;
+    border: 1px solid #79245c;
     border-radius: 1px;
     cursor: pointer;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.02);
@@ -107,17 +107,17 @@
     padding-top: 7px;
     font-size: 15px;
     font-weight: 700;
-    color: #553b51;
+    color: #81b62b;
 }
 #product1 .pro .cart{
     width: 30px;
     height: 25px;
     line-height: 20px;
     border-radius: 50px;
-    background-color: #7e477c;
+    background-color: #965279;
     font-weight: 500;
-    color: #f14cd5;
-    border: 1px solid #ce6bce;
+    color: #924992;
+    border: 1px solid #00040e;
     position: absolute;
     bottom: 20px;
     right: 20px;
@@ -127,10 +127,10 @@
     display: flex;
     cursor: pointer;
     padding: 10px 20px;
-    background: #9e4a80;
+    background: #99287f;
     border-radius: 30px;
     align-items: center;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 15px 30px rgba(17, 17, 17, 0.3);
 }
 .box input{
     width: 350px;
